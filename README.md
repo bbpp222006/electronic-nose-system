@@ -3,6 +3,8 @@
 
 水平比较菜，各位可以嘴臭，但轻一点……
 
+有问题之前先思考一下再提出问题，具体参考[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)  
+
 history文件夹内有纯算法的历史版本，包含有重要的原理测试记录，各位可以参考里面的readme.pdf文件。
 
 ## 软件安装教程
