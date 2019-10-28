@@ -30,6 +30,7 @@ python3.7不知道行不行，没做兼容性测试，所以还是3.6为好…�
 ### labview硬件驱动安装
 [官方链接](https://www.ni.com/zh-cn/support/downloads/drivers/download.ni-daqmx.html#325032)
   
+软件版本改为18.0  
 直接安装即可。
 
 ---
