@@ -1,10 +1,6 @@
 # electronic-nose-system
 基于labview和python的人工嗅觉测试系统，需搭配硬件使用
 
-水平比较菜，各位可以嘴臭，但轻一点……
-
-有问题之前先思考一下再提出问题，具体参考[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)  
-
 history文件夹内有纯算法的历史版本，包含有重要的原理测试记录，各位可以参考里面的readme.pdf文件。
 
 ## 常见问题以及解决方法
@@ -15,6 +11,14 @@ history文件夹内有纯算法的历史版本，包含有重要的原理测试�
 * 请连接上硬件后重启软件再次尝试，若仍没有反应，则需要修改硬件名称为（Dev1）[参考链接](https://jingyan.baidu.com/article/8cdccae90882f9315413cdfb.html)  
 **建议使用`自定义命名（2）`的方法进行修改**
 
+>为什么程序运行（start）后出错？
+* 出现这种情况有很多可能，请先尝试以下解决方法，若仍有报错，这种情况请附上报错信息发起issue。issue
+格式参考[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+
+1. **检查项目文件夹路径是否含有中文（最好是纯英文目录）。**
+2. 软件安装过程环境是否配好，漏掉步骤等。
+3. 重新下载本项目文件，并尝试运行。
+
 
 ## 软件安装教程
 
@@ -24,13 +28,13 @@ history文件夹内有纯算法的历史版本，包含有重要的原理测试�
 3. 测试文件结构和功能
 
 ## 必要软件安装
----  
+ 
 ### python3.6
 python3.7不知道行不行，没做兼容性测试，所以还是3.6为好……  
 [下载地址](https://www.python.org/)  
 **注意安装时勾选上path**  
 
----  
+
 
 
 ### labview2018
