@@ -1,6 +1,8 @@
 # electronic-nose-system
 基于labview和python的人工嗅觉测试系统，需搭配硬件使用
 
+**深度学习版本：https://github.com/bbpp222006/elec_nose_plus**
+
 history文件夹内有纯算法的历史版本，包含有重要的原理测试记录，各位可以参考里面的readme.pdf文件。
 
 ## 常见问题以及解决方法
